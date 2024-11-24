@@ -1,0 +1,75 @@
+{
+    "manifest": {
+        "name": "Brat",
+        "author": "miwoomsmsmsm",
+        "version": "3.6.0"
+    },
+    "background": {
+        "overlay_alpha": 2,
+        "blur_radius": 2,
+        "url": "https:\/\/i.ibb.co\/TtYJvyp\/Picsart-24-11-23-19-43-26-035.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/miwooscatrisadinha\/cu-\/raw\/refs\/heads\/main\/arialnarrow_bold.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 868089600,
+        "accent": -5505280,
+        "input_background": 9096704,
+        "statusbar": 921104,
+        "background": 9096704,
+        "blocked_bg": -5636287,
+        "active_channel": -7018481
+    },
+    "colors": {
+        "link": -3080335,
+        "primary_dark_200": -458788,
+        "primary_dark_300": -2752621,
+        "primary_dark_400": -5774336,
+        "uikit_btn_bg_color_selector_red": -3473536,
+        "uikit_btn_compound_color_selector_dark": -5243065,
+        "primary_dark_360": -3473579,
+        "uikit_settings_item_text_color_dark": -1,
+        "brand_new_560": -6829011,
+        "uikit_settings_item_text_color_light": -4325580,
+        "primary_dark_560": -6625792,
+        "primary_dark_530": -4653268,
+        "primary_dark_630": -7680512,
+        "primary_dark_230": -2818241,
+        "primary_dark_260": -7680512,
+        "primary_dark_660": -6623488,
+        "primary_dark_700": -6955264,
+        "primary_dark_730": -6758637,
+        "primary_dark_760": -6759424,
+        "primary_dark_345": -5638656,
+        "primary_dark_800": -7680512,
+        "primary_dark_600": -7680512,
+        "primary_dark_430": -5374165,
+        "primary_dark_460": -4391070,
+        "primary_dark_material_light": -5505206,
+        "primary_dark_500": -6691567,
+        "primary_dark_330": -3014785,
+        "primary_dark": -3866784
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -4659599,
+        "drawable_button_red": -5183403,
+        "drawable_overlay_channels_selected_dark": -6493952,
+        "drawable_voice_sensitivity_progress": -6889216,
+        "drawable_voice_user_background_speaking": -7351808,
+        "ic_channel_announcements": -1,
+        "ic_channel_text": -1,
+        "ic_channel_text_locked": -1,
+        "ic_channel_text_nsfw": -1,
+        "ic_sidebar_notifications_off_dark_24dp": -4786383,
+        "ic_sidebar_notifications_on_dark_24dp": -4786383,
+        "ic_sidebar_pins_off_dark_24dp": -4786383,
+        "ic_direct_message_header": -1,
+        "ic_group_message_header": -1,
+        "ic_menu_24dp": -1,
+        "ic_sidebar_search_24dp": -4786383
+    },
+    "raws": {
+        "call_calling": "https:\/\/github.com\/miwooscatrisadinha\/cu-\/raw\/refs\/heads\/main\/SpotifyMate.com%20-%20360%20-%20Charli%20xcx.mp3"
+    }
+}
